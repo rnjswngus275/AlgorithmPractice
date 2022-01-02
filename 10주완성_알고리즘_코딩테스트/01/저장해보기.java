@@ -1,3 +1,6 @@
+import java.io.*;
+import java.util.*;
+import java.lang.*;
 class Main {
 	public static final int MAX_N = 1000;
 	public static final Scanner scanner = new Scanner(System.in);
