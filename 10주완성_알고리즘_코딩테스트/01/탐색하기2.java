@@ -1,4 +1,4 @@
-import java.io.*;
+ import java.io.*;
 import java.lang.*;
 import java.util.*;
 
@@ -17,17 +17,14 @@ public class Main {
 		
 		for(int i=0;i<n;i++){
 			if(school[i].equals("AJOU")){
-				if(firstIndex!=-1){
-					lastIndex=i+1;
+				if(firstIndex==-1){
+					firstIndex=i;
 				}
-				else{
-					//첫번째 아주 찾기
-					firstIndex=i+1;
-				}
+					lastIndex=i;
 			}
 		}
 		
-		return new int[]{firstIndex, lastIndex};
+		return new int[]{firstIndex+1, lastIndex+1};
 	}
 
 	public static void main(String[] args)
