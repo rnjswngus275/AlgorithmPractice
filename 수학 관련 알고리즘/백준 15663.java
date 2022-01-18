@@ -15,15 +15,14 @@ public class Main {
 			}
 
 	public static int solve(int n) {
-		double i=1;
 		cnt=0;
-		sum=0;
-		while(sum%n!=0||sum==0) {
-			sum=(sum%n)+1*i;
-			i=i*10;
+		sum=1;
+		while(sum%n!=0) {
+			sum=(sum*10)+1;
+			sum=sum%n;
 			cnt++;
 		}
-			return cnt;
+			return cnt+1;
 	}
 
 }
