@@ -8,7 +8,7 @@ public class Main {
 	public static void main(String[] args) {
 		int n=scan.nextInt();
 		int m=scan.nextInt();
-		visited=new int[n];
+		visited=new int[n+1];
 		
 		for(int i=0;i<n+1;i++) {
 			list.add(new ArrayList<>());
@@ -22,7 +22,7 @@ public class Main {
 		}
 		dfs(1);
 		
-		for(int i=0;i<n;i++) {
+		for(int i=0;i<n+1;i++) {
 			if(visited[i]==1) {
 				cnt++;
 			}
