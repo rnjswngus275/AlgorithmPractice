@@ -3,7 +3,7 @@ import java.lang.*;
 import java.util.*;
 
 
-public class Main {
+public class 원소의합구하기 {
 	public static final Scanner scanner = new Scanner(System.in);
 
 	/**

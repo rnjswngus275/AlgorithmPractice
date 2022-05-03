@@ -2,7 +2,7 @@ import java.io.*;
 import java.util.*;
 import java.lang.*;
 
-class Main {
+class 테스트케이스 {
   public static final Scanner scanner = new Scanner(System.in);
 	public static void main(String[] args) {
 		//테스트 케이스의 수를 입력받는다

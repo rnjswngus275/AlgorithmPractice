@@ -5,7 +5,7 @@ import java.util.*;
 //n개의 숫자
 // 평균
 //평균과 가까운 숫자 (|평균-숫자|) 조건1 두개 이상일 경우 먼저 입력된 데이터 
-public class Main {
+public class 탐색하기3 {
 	public static final Scanner scanner = new Scanner(System.in);
 
 

@@ -1,6 +1,6 @@
 import java.util.*;
 
-public class Main {
+public class 백준10870 {
 
 	public static Scanner scanner=new Scanner(System.in);
 	public static int pivo(int n) {

@@ -1,5 +1,5 @@
 import java.util.*;
-public class Main {
+public class 백준9095 {
 
 	public static Scanner scan =new Scanner(System.in);
 	public static StringBuilder sb=new StringBuilder();

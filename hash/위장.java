@@ -1,6 +1,6 @@
 import java.util.HashMap;
 
-class Solution {
+class Solution2 {
     public int solution(String[][] clothes) {
     	int answer = 1; 
 

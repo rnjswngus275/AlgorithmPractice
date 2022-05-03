@@ -1,9 +1,8 @@
-package algorithm;
 
 import java.util.*;
 import java.io.*;
 
-public class Main {
+public class 백준2615 {
     static Scanner scan=new Scanner(System.in);
     static int[][] arr;
     //↑ (↗ → ↘  ↓)  ↙    ←    ↖     순서 

@@ -1,6 +1,6 @@
 import java.util.*;
 
-public class Main {
+public class 백준3085 {
 	public static Scanner scanner=new Scanner(System.in);
 	public static StringBuilder sb=new StringBuilder();
 	static int n,m;

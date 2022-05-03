@@ -1,6 +1,6 @@
 import java.util.*;
 
-public class Main {
+public class 두수의합이7인경우 {
 
 	public static Scanner scanner=new Scanner(System.in);
 	public static int solve(int n,int data[]) {

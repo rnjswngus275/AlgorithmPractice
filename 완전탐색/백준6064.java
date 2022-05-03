@@ -1,6 +1,6 @@
 import java.util.*;
 
-public class Main {
+public class 백준6064 {
 	public static Scanner scan =new Scanner(System.in);
 	public static StringBuilder sb=new StringBuilder();
 	static int t, n,x,y, m,arr[][],ans;

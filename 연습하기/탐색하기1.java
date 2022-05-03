@@ -3,7 +3,7 @@ import java.lang.*;
 import java.util.*;
 
 
-public class Main {
+public class 탐색하기1 {
 	public static final Scanner scanner = new Scanner(System.in);
 
 	/**

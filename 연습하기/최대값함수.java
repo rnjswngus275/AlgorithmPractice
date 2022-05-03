@@ -2,7 +2,7 @@ import java.io.*;
 import java.lang.*;
 import java.util.*;
 
-public class Main {
+public class 최대값함수 {
 	public static final Scanner scanner = new Scanner(System.in);
 
 	/**
