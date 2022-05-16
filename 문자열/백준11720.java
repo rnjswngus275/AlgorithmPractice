@@ -1,7 +1,7 @@
 import java.io.*;
 import java.text.SimpleDateFormat;
 import java.util.*;
-public class Main {
+public class 백준11720 {
 	static int n,p,cnt=0;
 	static String[] arr;
 	static Scanner scan=new Scanner(System.in);
