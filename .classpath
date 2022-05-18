@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="src" path="연습하기"/>
+	<classpathentry kind="src" path="완전탐색"/>
+	<classpathentry kind="src" path="hash"/>
+	<classpathentry kind="src" path="문자열"/>
+	<classpathentry kind="src" path="구현"/>
+	<classpathentry kind="src" path="그리디"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
