@@ -8,5 +8,7 @@
 	<classpathentry kind="src" path="구현"/>
 	<classpathentry kind="src" path="그리디"/>
 	<classpathentry kind="src" path="DP"/>
+	<classpathentry kind="src" path="이분탐색"/>
+	<classpathentry kind="src" path="dijkstra"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>
