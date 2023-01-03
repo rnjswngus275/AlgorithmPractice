@@ -1,4 +1,3 @@
-package tmp;
 
 import java.util.Scanner;
 

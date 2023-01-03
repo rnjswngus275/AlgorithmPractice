@@ -1,4 +1,4 @@
-package tmp;
+package etc;
 
 import java.util.Scanner;
 class position2{
@@ -14,7 +14,7 @@ class position2{
     }
 }
 
-public class 백준17070 {
+public class 백준17070tmp {
     static int [] vdx1= {0,0};
     static int [] vdy1= {1,1};
     static int [] vdx2= {0,1};

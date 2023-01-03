@@ -10,5 +10,6 @@
 	<classpathentry kind="src" path="DP"/>
 	<classpathentry kind="src" path="이분탐색"/>
 	<classpathentry kind="src" path="dijkstra"/>
+	<classpathentry kind="src" path="Tree"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>
