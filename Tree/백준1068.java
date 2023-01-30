@@ -5,6 +5,7 @@ public class 백준1068 {
 	static Scanner scan=new Scanner(System.in);
 	static ArrayList<ArrayList<Integer>> list=new ArrayList<>();
 	static int n,erase,cnt;
+	
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 	    n=scan.nextInt();
